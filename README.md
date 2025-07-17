@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hirusha Jayawardena</h1>
-<h3 align="center">I am a Software Engineer | Passionate AI | Bussiness Student | I like to create and apply practical software solutions, while learning new languages and frameworks.</h3>
+<h3 align="center">I am a Software Engineer Student | Passionate AI | Bussiness Student | I like to create and apply practical software solutions, while learning new languages and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru2024god&label=Profile%20views&color=0e75b6&style=flat" alt="hiru2024god" /> </p>
 
@@ -31,3 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiru2024god&show_icons=true&locale=en&layout=compact" alt="hiru2024god" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiru2024god&show_icons=true&locale=en" alt="hiru2024god" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
