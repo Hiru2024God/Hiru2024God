@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiru2024god" alt="hiru2024god" /></a> </p>
 
+<img align="right" height="150" src=""  />
+
+<img align="right" height="150" src=""  />
+
 - 🔭 I’m currently working on **Chat App**
 
 - 🌱 I’m currently learning **Python | React Native | Java | MongoDB**
@@ -16,6 +20,8 @@
 - 📫 How to reach me **familyhiru@gmail.com**
 
 - ⚡ Fun fact **I Create Youtude Content / Videos**
+
+
 
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiru2024god&show_icons=true&locale=en&layout=compact" alt="hiru2024god" /></p>
