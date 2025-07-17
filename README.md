@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hirusha Jayawardena</h1>
-<h3 align="center">I am a Software Engineer Student | Passionate AI | Bussiness Student | I like to create and apply practical software solutions, while learning new languages and frameworks.</h3>
+<h3 align="center">I'm a Software Engineering Student | Bussiness Student | I like To Create And Apply Practical Software Solutions, While Learning New Languages And Frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru2024god&label=Profile%20views&color=0e75b6&style=flat" alt="hiru2024god" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiru2024god" alt="hiru2024god" /></a> </p>
+
 <div align="center">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiru2024god" alt="hiru2024god" /></a> </p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hiru2024god&show_icons=true&locale=en" alt="hiru2024god" /></p>
 </div>
+
 
 - 🔭 I’m currently working on **Chat App**
 
@@ -24,8 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hirusha-jayawardena-837270335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hirusha-jayawardena-837270335/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hirusha-jayawardena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hirusha-jayawardena" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/hirusha.jayawardena.9?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hirusha.jayawardena.9?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_hiru_jayawardena?igsh=mwfqexaym2x6dg40bq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_hiru_jayawardena?igsh=mwfqexaym2x6dg40bq==" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@creativetechnology-e1q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@creativetechnology-e1q" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiru2024god&show_icons=true&locale=en&layout=compact" alt="hiru2024god" /></p>
+
+
