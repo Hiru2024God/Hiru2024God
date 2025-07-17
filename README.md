@@ -7,9 +7,6 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiru2024god" alt="hiru2024god" /></a> </p>
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-
 - 🔭 I’m currently working on **Chat App**
 
 - 🌱 I’m currently learning **Python | React Native | Java | MongoDB**
