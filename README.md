@@ -1,4 +1,4 @@
-<h3 align="center">I'm a Software Engineering Student | Bussiness Student | I like To Create And Apply Practical Software Solutions, While Learning New Languages And Frameworks</h3>
+<h3 align="center">I'm a Software Engineering Student | Business Student | I like To Create And Apply Practical Software Solutions, While Learning New Languages And Frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru2024god&label=Profile%20views&color=0e75b6&style=flat" alt="hiru2024god" /> </p>
 
