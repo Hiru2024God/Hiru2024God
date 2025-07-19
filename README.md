@@ -17,6 +17,7 @@
 - ⚡ Fun fact **I Create Youtude Content / Videos**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiru2024god&show_icons=true&locale=en&layout=compact" alt="hiru2024god" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hiru2024god&show_icons=true&locale=en" alt="hiru2024god" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
